@@ -20,7 +20,7 @@ body
 {
     width:100%;
     height: 100vh;
-    background-image: url(IMAGES/350871-website-background-1920x1200-high-resolution.jpg);
+    background-image: url(350871-website-background-1920x1200-high-resolution.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -271,7 +271,7 @@ form .btn
 {
     #header
    {
-    background-image: url(IMAGES/350871-website-background-1920x1200-high-resolution.jpg);
+    background-image: url(350871-website-background-1920x1200-high-resolution.jpg);
    }
 
    .header-text
